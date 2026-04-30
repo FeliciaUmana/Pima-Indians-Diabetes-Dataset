@@ -24,3 +24,7 @@ Outcome - This is the target column — the answer your model is trying to predi
 
 ## Problem Solved
 The problem to solved is, based on the patient medical measurement which is the columns does the patient has diabetics or not because of that i choose outcome to be my target because it has the answer yes=1, No=0, all other column are feature column that will help me predict the answer.
+
+## link to test it on streamlit
+Here is the link to test it:
+https://pima-indians-diabetes-dataset-h7zmxopgkytdjvu4rpboad.streamlit.app/~/+/#diabetics-prediction-app
